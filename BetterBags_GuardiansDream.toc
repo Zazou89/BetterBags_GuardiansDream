@@ -1,5 +1,5 @@
 ## Interface: 100200
-## Title: BetterBags - Guardiens of the Dream
+## Title: BetterBags - Guardians of the Dream
 ## Author: Zazou
 ## Version: 1.0.0
 ## Notes: Category for all the Guardiens of the Dream Items.

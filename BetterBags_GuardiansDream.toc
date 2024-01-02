@@ -2,7 +2,7 @@
 ## Title: BetterBags - Guardians of the Dream
 ## Author: Zazou
 ## Version: 1.0.0
-## Notes: Category for all the Guardians of the Dream Items.
+## Notes: Category for all Guardians of the Dream Items.
 ## X-Curse-Project-ID: 957175
 ## IconTexture: Interface\Icons\inv_farm_pumpkinseed_purple
 

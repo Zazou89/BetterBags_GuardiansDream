@@ -36,6 +36,6 @@ local allItems = {
 
 for _, itemList in ipairs(allItems) do
     for _, ItemID in ipairs(itemList) do
-        categories:AddItemToCategory(ItemID, "Guardiens of the Dream")
+        categories:AddItemToCategory(ItemID, "Guardians of the Dream")
     end
 end

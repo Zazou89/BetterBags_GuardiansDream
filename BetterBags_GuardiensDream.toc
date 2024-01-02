@@ -3,7 +3,7 @@
 ## Author: Zazou
 ## Version: 1.0.0
 ## Notes: Category for all the Guardiens of the Dream Items.
-## X-Curse-Project-ID: xxx
+## X-Curse-Project-ID: 957175
 ## IconTexture: Interface\Icons\inv_farm_pumpkinseed_purple
 
 main.lua

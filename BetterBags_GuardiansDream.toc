@@ -3,6 +3,7 @@
 ## Author: Zazou
 ## Version: 1.0.0
 ## Notes: Category for all Guardians of the Dream Items.
+## Dependencies: BetterBags
 ## X-Curse-Project-ID: 957175
 ## IconTexture: Interface\Icons\inv_farm_pumpkinseed_purple
 

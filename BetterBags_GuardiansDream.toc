@@ -1,4 +1,4 @@
-## Interface: 100205
+## Interface: 100206
 ## Title: BetterBags - Guardians of the Dream
 ## Author: Zazou
 ## Version: 1.0.2

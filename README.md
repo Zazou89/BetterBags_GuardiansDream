@@ -1,7 +1,5 @@
 # BetterBags - Guardians of the Dream
-This addon must be used with [BetterBags](https://www.curseforge.com/wow/addons/better-bags). It creates a new category for all Guardians of the Dream Items.
-
-It contains the following categories: 
+This addon must be used with [BetterBags](https://www.curseforge.com/wow/addons/better-bags). It creates a new category for all Guardians of the Dream Items, including :
 - Dreamseeds
 - Currencies
 - Containers

@@ -1,7 +1,7 @@
 ## Interface: 100207
 ## Title: BetterBags - Guardians of the Dream
 ## Author: Zazou
-## Version: 1.0.2
+## Version: 1.0.5
 ## Notes: Category for all Guardians of the Dream Items.
 ## Dependencies: BetterBags
 ## X-Curse-Project-ID: 957175

@@ -1,4 +1,4 @@
-## Interface: 110007
+## Interface: 110007, 110100
 ## Title: BetterBags - Guardians of the Dream
 ## Author: Zazou
 ## Version: @project-version@
